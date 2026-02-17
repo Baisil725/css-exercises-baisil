@@ -1,1 +1,18 @@
-/* Add CSS Styling */
+.odd{
+    background-color: rgb(237, 163, 192);
+    font-family: "Verdana", "Dejavu sans", sans-serif;
+}
+
+#sec{
+    color: #0000ff;
+    font-size: 36px;
+}
+
+.but{
+    font-size: 24px;
+}
+
+#nalu{
+    background-color: hsl(107, 100%, 81%);
+    font-weight: bold;
+}
