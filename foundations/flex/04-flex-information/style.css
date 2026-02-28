@@ -12,7 +12,10 @@ body {
 .children{
   display: flex;
   gap: 52px;
-  flex: 1 1 200px;
+}
+
+.child{
+  max-width: 200px;
 }
 
 .text{
